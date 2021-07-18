@@ -1,9 +1,9 @@
 # Image Similarity Checker
 
 
-<br>
+
 ### Code Explanation
-![image](https://user-images.githubusercontent.com/50414959/126055820-6e14061d-2e53-46bb-8aa3-f6db347e2484.png)
+![image](https://user-images.githubusercontent.com/50414959/126056150-62c1a520-8ee2-4f8e-8292-8c38e5a49b1b.png)
 
 
 #### Steps done in the code
@@ -18,7 +18,7 @@ Image Similarity
     └───Images (Folder where the images being checked are kept)
 ```
 
-<br>
+
 ### Sample Input and Output
 
 #### Target Image

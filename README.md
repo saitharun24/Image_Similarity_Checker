@@ -1,8 +1,10 @@
 # Image Similarity Checker
 
-Euclidean Distance represents the distance between any two points in an n-dimensional space. Since we are representing our images as image vectors they are nothing but a point in an n-dimensional space and we are going to use the euclidean distance to find the distance between them.
+### Introduction to some techinques used in the code
 
-Histogram is a graphical display of numerical values. We are going to use the image vector for all three images and then find the euclidean distance between them. Based on the values returned the image with a lesser distance is more similar than the other.
+**Euclidean Distance** represents the distance between any two points in an n-dimensional space. Since we are representing our images as image vectors they are nothing but a point in an n-dimensional space and we are going to use the euclidean distance to find the distance between them.
+
+**Histogram** is a graphical display of numerical values. We are going to use the image vector for all three images and then find the euclidean distance between them. Based on the values returned the image with a lesser distance is more similar than the other.
 
 ### Code Explanation
 The code is written in as a command line argument format, with the arguments as given in the snip.
